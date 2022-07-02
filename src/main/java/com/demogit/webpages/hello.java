@@ -6,8 +6,8 @@ public class hello {
 		// TODO Auto-generated method stub
 System.out.println("hello");
 System.out.println("demo");
-System.out.println("demo2");
-System.out.println("rp");
+System.out.println("demo2 - rp personal");
+System.out.println("rp- rp personal");
 	}
 
 }
